@@ -56,8 +56,8 @@
   <!-- Contact -->
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:vishal@example.com">vishal@example.com</a></p>
-    <p>Instagram: <a href="#">@vishalphotography</a></p>
+    <p>Email: <a href="mailto:vishal@example.com">vishalkavitha2005@gmail.com</a></p>
+    <p>Instagram: <a href="#">@vishal</a></p>
   </section>
 
   <!-- Footer -->
